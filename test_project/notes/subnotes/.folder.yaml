@@ -1,0 +1,15 @@
+---
+files:
+  - name: subnote 1.md
+    true_name: SubNote $#1
+    tags:
+      - sample_tag 1
+      - sample_tag 2
+    word_count_goal: 1000
+
+folder:
+  - name: subnotes
+    true_name: SubNotes $#
+    tags:
+      - sample_tag 2
+    word_count_goal: 2000

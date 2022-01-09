@@ -1,0 +1,15 @@
+---
+project:
+  authors:
+    - Test Author
+
+tags:
+  - name: sample_tag 1
+    text_color: #
+    color: #
+  - name: sample_tag 2
+    text_color: #
+    color: #
+
+
+statistics:

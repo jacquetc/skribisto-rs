@@ -1,0 +1,2 @@
+[workspace]
+members = ["skribisto_manager", "skribisto_editor","skribisto_compiler","skribisto_decompiler"]

@@ -1,0 +1,20 @@
+---
+files:
+  - name: note 1.md
+    true_name: Note $#1
+    tags:
+      - sample_tag 1
+    word_count_goal: 1000
+  - name: note 2.md
+    true_name: Note $#2
+    tags:
+      - sample_tag 1
+      - sample_tag 2
+    word_count_goal: 1500
+
+folder:
+  - name: notes
+    true_name: Notes $#
+    tags:
+      - sample_tag 1
+    word_count_goal: 3500
